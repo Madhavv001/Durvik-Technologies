@@ -153,7 +153,7 @@ export default function CareersPage() {
               <div className="p-6 border-t border-[#334155] bg-[#1e293b] flex flex-col sm:flex-row items-center justify-between gap-4">
                 <p className="text-sm text-slate-400">Ready to build the future with us?</p>
                 <a 
-                  href={`mailto:druviktechnologies@gmail.com?subject=Application: ${job.role}&body=Dear Hiring Team,%0A%0AI am writing to apply for the ${job.role} position at Durvik Technologies.%0A%0AName:%0AExperience:%0ALocation:%0APortfolio/GitHub:%0A%0AThank you for considering my application.`}
+                  href={`mailto:durviktechnologies@gmail.com?subject=Application: ${job.role}&body=Dear Hiring Team,%0A%0AI am writing to apply for the ${job.role} position at Durvik Technologies.%0A%0AName:%0AExperience:%0ALocation:%0APortfolio/GitHub:%0A%0AThank you for considering my application.`}
                   className="px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2 shadow-lg shadow-blue-600/20"
                 >
                   Apply Now <ArrowLeft size={18} className="rotate-180"/>
@@ -170,7 +170,7 @@ export default function CareersPage() {
             We are always looking for talented individuals. Send your resume and portfolio to our HR team.
           </p>
           <a 
-            href="mailto:druviktechnologies@gmail.com?subject=General Application - Durvik Technologies"
+            href="mailto:durviktechnologies@gmail.com?subject=General Application - Durvik Technologies"
             className="inline-flex items-center gap-2 px-6 py-3 border border-slate-600 rounded-lg hover:bg-slate-800 transition-colors text-sm font-medium"
           >
             Send Resume via Email

@@ -84,7 +84,7 @@ export default function PricingPage() {
                   Book via WhatsApp <MessageSquare size={18} />
                 </a>
                 <a 
-                  href={`mailto:druviktechnologies@gmail.com?subject=Order: Portfolio Starter Package&body=Hi Durvik Team,%0A%0AI want to book the Portfolio Starter Package (6,999).%0A%0AMy Details:%0AName:%0ABusiness Name:%0A%0AThank you.`}
+                  href={`mailto:durviktechnologies@gmail.com?subject=Order: Portfolio Starter Package&body=Hi Durvik Team,%0A%0AI want to book the Portfolio Starter Package (6,999).%0A%0AMy Details:%0AName:%0ABusiness Name:%0A%0AThank you.`}
                   className="w-full py-3.5 rounded-lg font-semibold text-center border border-[#334155] hover:bg-[#0f172a] text-white transition-colors flex items-center justify-center gap-2"
                 >
                   Book via Email <Mail size={18} />
@@ -122,14 +122,14 @@ export default function PricingPage() {
               {/* Direct Action Buttons with New Number */}
               <div className="space-y-3 mt-auto">
                 <a 
-                  href="https://wa.me/917969112344?text=Hi%20Durvik,%20I%20need%20a%20custom%20web%20solution.%20Can%20we%20discuss?"
+                  href="https://wa.me/917869112344?text=Hi%20Durvik,%20I%20need%20a%20custom%20web%20solution.%20Can%20we%20discuss?"
                   target="_blank"
                   className="w-full py-3.5 rounded-lg font-semibold text-center bg-[#25D366] hover:bg-[#20bd5a] text-white transition-colors flex items-center justify-center gap-2"
                 >
                   Discuss on WhatsApp <MessageSquare size={18} />
                 </a>
                 <a 
-                  href="mailto:druviktechnologies@gmail.com?subject=Custom Project Inquiry&body=Hi Durvik Team,%0A%0AI need a custom web solution.%0A%0AMy Requirements:%0A%0AThank you."
+                  href="mailto:durviktechnologies@gmail.com?subject=Custom Project Inquiry&body=Hi Durvik Team,%0A%0AI need a custom web solution.%0A%0AMy Requirements:%0A%0AThank you."
                   className="w-full py-3.5 rounded-lg font-semibold text-center border border-[#334155] hover:bg-[#0f172a] text-white transition-colors flex items-center justify-center gap-2"
                 >
                   Send Requirements via Email <Mail size={18} />
@@ -184,7 +184,7 @@ export default function PricingPage() {
             <h4 className="font-semibold mb-4 text-white">Connect</h4>
             <ul className="space-y-2 text-sm text-slate-400">
               <li>Mandsaur, Madhya Pradesh, India</li>
-              <li>druviktechnologies@gmail.com</li>
+              <li>durviktechnologies@gmail.com</li>
               <li>+91 78691 12344</li>
             </ul>
           </div>

@@ -132,7 +132,7 @@ export default function Home() {
           <h2 className="text-2xl font-bold mb-2">Request a Consultation</h2>
           <p className="text-slate-400 mb-8 text-sm">Tell us about your requirements. We respond within 24 hours.</p>
           
-          <form action="https://formsubmit.co/druviktechnologies@gmail.com" method="POST" className="space-y-4">
+          <form action="https://formsubmit.co/durviktechnologies@gmail.com" method="POST" className="space-y-4">
             <input type="hidden" name="_subject" value="New Business Enquiry - Durvik Technologies" />
             <input type="hidden" name="_captcha" value="false" />
             <input type="hidden" name="_next" value="http://localhost:3000/#contact" />

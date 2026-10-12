@@ -17,13 +17,13 @@ export const metadata: Metadata = {
   },
   description: "Leading tech startup in Mandsaur, MP offering AI, Web Development, and Mobile App solutions. Affordable packages starting at ₹6,999.",
   keywords: ["Web Development Mandsaur", "AI Startup India", "Next.js Developer", "Freelance Web Designer", "Durvik Technologies", "App Development MP"],
-  authors: [{ name: "Madhav Sharma", url: "https://druvik-tech.vercel.app" }],
+  authors: [{ name: "Madhav Sharma", url: "https://durvik-tech.vercel.app" }],
   creator: "Durvik Technologies",
   publisher: "Durvik Technologies",
   openGraph: {
     title: "Durvik Technologies | Intelligent Software Solutions",
     description: "Building scalable AI, Web, and Mobile products from Mandsaur, India.",
-    url: "https://druvik-tech.vercel.app",
+    url: "https://durvik-tech.vercel.app",
     siteName: "Durvik Technologies",
     locale: "en_IN",
     type: "website",
@@ -104,7 +104,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <h4 className="font-semibold mb-4 text-white">Connect</h4>
               <ul className="space-y-2 text-sm text-slate-400">
                 <li>Mandsaur, Madhya Pradesh, India</li>
-                <li>druviktechnologies@gmail.com</li>
+                <li>durviktechnologies@gmail.com</li>
                 <li>+91 78691 12344</li>
               </ul>
             </div>
